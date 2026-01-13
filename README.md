@@ -34,5 +34,5 @@ const CONFIG = {
     }
 };
 ```
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 This tool provides a UI-level security layer (Client-side). It is designed to prevent casual snooping (e.g., leaving your laptop open at a coffee shop). It does not encrypt network traffic or server-side data. Experienced users can bypass this by disabling JavaScript or the extension.
